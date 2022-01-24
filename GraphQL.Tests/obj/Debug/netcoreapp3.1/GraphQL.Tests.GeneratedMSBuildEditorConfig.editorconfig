@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = GraphQL.Tests
+build_property.ProjectDir = C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\

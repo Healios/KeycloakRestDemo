@@ -1,0 +1,18 @@
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL.Tests\bin\Debug\netcoreapp3.1\GraphQL.Tests.deps.json
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL.Tests\bin\Debug\netcoreapp3.1\GraphQL.Tests.dll
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL.Tests\bin\Debug\netcoreapp3.1\GraphQL.Tests.pdb
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.AssemblyInfoInputs.cache
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.AssemblyInfo.cs
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.csproj.CoreCompileInputs.cache
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.dll
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.pdb
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\bin\Debug\netcoreapp3.1\GraphQL.Tests.deps.json
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\bin\Debug\netcoreapp3.1\GraphQL.Tests.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\bin\Debug\netcoreapp3.1\GraphQL.Tests.pdb
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.csproj.AssemblyReference.cache
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.AssemblyInfoInputs.cache
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.AssemblyInfo.cs
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.csproj.CoreCompileInputs.cache
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL.Tests\obj\Debug\netcoreapp3.1\GraphQL.Tests.pdb

@@ -1,0 +1,47 @@
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\bin\Debug\net5.0\Persistance.deps.json
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\bin\Debug\net5.0\Persistance.dll
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\bin\Debug\net5.0\ref\Persistance.dll
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\bin\Debug\net5.0\Persistance.pdb
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\bin\Debug\net5.0\Core.dll
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\bin\Debug\net5.0\Core.pdb
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\obj\Debug\net5.0\Persistance.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\obj\Debug\net5.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\obj\Debug\net5.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\obj\Debug\net5.0\Persistance.csproj.CopyComplete
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\obj\Debug\net5.0\Persistance.dll
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\obj\Debug\net5.0\ref\Persistance.dll
+C:\Users\Marcus\source\repos\ItemAPI\Persistance\obj\Debug\net5.0\Persistance.pdb
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\bin\Debug\net5.0\Persistance.deps.json
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\bin\Debug\net5.0\Persistance.dll
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\bin\Debug\net5.0\ref\Persistance.dll
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\bin\Debug\net5.0\Persistance.pdb
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\bin\Debug\net5.0\Core.dll
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\bin\Debug\net5.0\Core.pdb
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.csprojAssemblyReference.cache
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfoInputs.cache
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfo.cs
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.csproj.CopyComplete
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.dll
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\obj\Debug\net5.0\ref\Persistance.dll
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.pdb
+C:\Formula\GiftCardAPI\Persistance\bin\Debug\net5.0\Persistance.deps.json
+C:\Formula\GiftCardAPI\Persistance\bin\Debug\net5.0\Persistance.dll
+C:\Formula\GiftCardAPI\Persistance\bin\Debug\net5.0\ref\Persistance.dll
+C:\Formula\GiftCardAPI\Persistance\bin\Debug\net5.0\Persistance.pdb
+C:\Formula\GiftCardAPI\Persistance\bin\Debug\net5.0\Core.dll
+C:\Formula\GiftCardAPI\Persistance\bin\Debug\net5.0\Core.pdb
+C:\Formula\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.csprojAssemblyReference.cache
+C:\Formula\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formula\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfoInputs.cache
+C:\Formula\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfo.cs
+C:\Formula\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Formula\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.csproj.CopyComplete
+C:\Formula\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.dll
+C:\Formula\GiftCardAPI\Persistance\obj\Debug\net5.0\ref\Persistance.dll
+C:\Formula\GiftCardAPI\Persistance\obj\Debug\net5.0\Persistance.pdb
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\bin\Debug\net5.0\da\Core.resources.dll
+C:\Sentinel\API Projects\GiftCardAPI\Persistance\bin\Debug\net5.0\en\Core.resources.dll

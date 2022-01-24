@@ -1,0 +1,18 @@
+C:\Formula\GiftCardAPI\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.deps.json
+C:\Formula\GiftCardAPI\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.dll
+C:\Formula\GiftCardAPI\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.pdb
+C:\Formula\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.csprojAssemblyReference.cache
+C:\Formula\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.AssemblyInfoInputs.cache
+C:\Formula\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.AssemblyInfo.cs
+C:\Formula\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Formula\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.dll
+C:\Formula\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.pdb
+C:\Sentinel\API Projects\GiftCardAPI\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.deps.json
+C:\Sentinel\API Projects\GiftCardAPI\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.dll
+C:\Sentinel\API Projects\GiftCardAPI\RabbitMQ\bin\Debug\netcoreapp3.1\RabbitMQ.pdb
+C:\Sentinel\API Projects\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.csprojAssemblyReference.cache
+C:\Sentinel\API Projects\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.AssemblyInfoInputs.cache
+C:\Sentinel\API Projects\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.AssemblyInfo.cs
+C:\Sentinel\API Projects\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Sentinel\API Projects\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.dll
+C:\Sentinel\API Projects\GiftCardAPI\RabbitMQ\obj\Debug\netcoreapp3.1\RabbitMQ.pdb

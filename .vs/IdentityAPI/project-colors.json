@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01525de6-6ca9-428f-81a9-40b6f3867abf": {
+      "ProjectGuid": "01525de6-6ca9-428f-81a9-40b6f3867abf",
+      "DisplayName": "GraphQL",
+      "ColorIndex": 0
+    },
+    "e86255ba-b3d8-4634-986e-2554c5cffcf4": {
+      "ProjectGuid": "e86255ba-b3d8-4634-986e-2554c5cffcf4",
+      "DisplayName": "Core",
+      "ColorIndex": 1
+    },
+    "619ef1eb-7955-478a-808c-7d1373ffffac": {
+      "ProjectGuid": "619ef1eb-7955-478a-808c-7d1373ffffac",
+      "DisplayName": "Persistance",
+      "ColorIndex": 2
+    },
+    "66765ad8-2f81-45ca-b4d0-6c6cad700202": {
+      "ProjectGuid": "66765ad8-2f81-45ca-b4d0-6c6cad700202",
+      "DisplayName": "RabbitMQ",
+      "ColorIndex": 3
+    },
+    "4b4c183d-4463-4245-8648-a03e1820e59c": {
+      "ProjectGuid": "4b4c183d-4463-4245-8648-a03e1820e59c",
+      "DisplayName": "UI",
+      "ColorIndex": 4
+    },
+    "4167b298-41e1-46c5-b6b5-1667859420df": {
+      "ProjectGuid": "4167b298-41e1-46c5-b6b5-1667859420df",
+      "DisplayName": "UI",
+      "ColorIndex": 5
+    },
+    "9c3edbcc-cffc-4e00-8e18-a6e780295f69": {
+      "ProjectGuid": "9c3edbcc-cffc-4e00-8e18-a6e780295f69",
+      "DisplayName": "GraphQL.Tests",
+      "ColorIndex": 6
+    },
+    "3044ffc6-481c-47a2-9481-2f7405b8f512": {
+      "ProjectGuid": "3044ffc6-481c-47a2-9481-2f7405b8f512",
+      "DisplayName": "Keycloak",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

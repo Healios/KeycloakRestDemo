@@ -1,0 +1,64 @@
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\net5.0\GraphQL.deps.json
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\net5.0\GraphQL.dll
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\net5.0\ref\GraphQL.dll
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\net5.0\GraphQL.pdb
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\net5.0\Core.dll
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\net5.0\Core.pdb
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\net5.0\GraphQL.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\net5.0\GraphQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\net5.0\GraphQL.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\net5.0\GraphQL.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\net5.0\GraphQL.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\net5.0\GraphQL.csproj.CopyComplete
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\net5.0\GraphQL.dll
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\net5.0\ref\GraphQL.dll
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\net5.0\GraphQL.pdb
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\bin\Debug\net5.0\GraphQL.deps.json
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\bin\Debug\net5.0\GraphQL.dll
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\bin\Debug\net5.0\ref\GraphQL.dll
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\bin\Debug\net5.0\GraphQL.pdb
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\bin\Debug\net5.0\Core.dll
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\bin\Debug\net5.0\Core.pdb
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.csprojAssemblyReference.cache
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.AssemblyInfoInputs.cache
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.AssemblyInfo.cs
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.csproj.CoreCompileInputs.cache
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.csproj.CopyComplete
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.dll
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\obj\Debug\net5.0\ref\GraphQL.dll
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.pdb
+C:\Formula\GiftCardAPI\GraphQL\bin\Debug\net5.0\GraphQL.deps.json
+C:\Formula\GiftCardAPI\GraphQL\bin\Debug\net5.0\GraphQL.dll
+C:\Formula\GiftCardAPI\GraphQL\bin\Debug\net5.0\ref\GraphQL.dll
+C:\Formula\GiftCardAPI\GraphQL\bin\Debug\net5.0\GraphQL.pdb
+C:\Formula\GiftCardAPI\GraphQL\bin\Debug\net5.0\Core.dll
+C:\Formula\GiftCardAPI\GraphQL\bin\Debug\net5.0\Core.pdb
+C:\Formula\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.csprojAssemblyReference.cache
+C:\Formula\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Formula\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.AssemblyInfoInputs.cache
+C:\Formula\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.AssemblyInfo.cs
+C:\Formula\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.csproj.CoreCompileInputs.cache
+C:\Formula\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.csproj.CopyComplete
+C:\Formula\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.dll
+C:\Formula\GiftCardAPI\GraphQL\obj\Debug\net5.0\ref\GraphQL.dll
+C:\Formula\GiftCardAPI\GraphQL\obj\Debug\net5.0\GraphQL.pdb
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\bin\Debug\net5.0\da\Core.resources.dll
+C:\Sentinel\API Projects\GiftCardAPI\GraphQL\bin\Debug\net5.0\en\Core.resources.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\obj\Debug\net5.0\GraphQL.csprojAssemblyReference.cache
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\obj\Debug\net5.0\GraphQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\obj\Debug\net5.0\GraphQL.AssemblyInfoInputs.cache
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\obj\Debug\net5.0\GraphQL.AssemblyInfo.cs
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\obj\Debug\net5.0\GraphQL.csproj.CoreCompileInputs.cache
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\obj\Debug\net5.0\GraphQL.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\obj\Debug\net5.0\ref\GraphQL.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\obj\Debug\net5.0\GraphQL.pdb
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\bin\Debug\net5.0\GraphQL.deps.json
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\bin\Debug\net5.0\GraphQL.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\bin\Debug\net5.0\ref\GraphQL.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\bin\Debug\net5.0\GraphQL.pdb
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\bin\Debug\net5.0\Core.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\bin\Debug\net5.0\Core.pdb
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\bin\Debug\net5.0\da\Core.resources.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\bin\Debug\net5.0\en\Core.resources.dll
+C:\Sentinel\API Projects\IdentityAPI - Keycloak\GraphQL\obj\Debug\net5.0\GraphQL.csproj.CopyComplete

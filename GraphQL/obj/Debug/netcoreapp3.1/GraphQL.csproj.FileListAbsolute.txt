@@ -1,0 +1,12 @@
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\netcoreapp3.1\GraphQL.deps.json
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\netcoreapp3.1\GraphQL.pdb
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.csprojAssemblyReference.cache
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.dll
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.pdb
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Marcus\source\repos\ItemAPI\GraphQL\obj\Debug\netcoreapp3.1\GraphQL.csproj.CopyComplete
